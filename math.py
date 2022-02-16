@@ -4,15 +4,12 @@ def add(x,y):
 	
 #Subtract Implementation 2
 def subtract(x,y):
-	return x-y              
+	pass              
 	
 #Multiply Implementation 2
 def multiply(x,y):
-	return x*y      
+	pass      
 	
 #Divide Implementation 2
-def divide(x,y):                #Just a test
-	if y==0:            
-        return DIVIDE_BY_0_ERROR
-    else:
-        return x/y
+def divide(x,y):                
+	pass
